@@ -1,0 +1,31 @@
+h1 {
+    font-family: Fantasy;
+}
+
+div {
+    text-align: center;
+}
+
+canvas {
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-right: 5px;
+    margin-left: 5px;
+    width: 670px;
+    height: 450px;
+    border: 1px solid gray;
+}
+
+body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 1px solid blue;
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    font-size: 14pt;
+}
